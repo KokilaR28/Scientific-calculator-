@@ -28,12 +28,11 @@ A scientific calculator  application using python framework tkinter
 23.	± : Change the sign of a number.
 24.	% : Find the percentage of a number (e.g. 5% = 0.05).
 25.	ex : Expotential function (e.g. e2=approx 7.389 ).
-    
-In these rows include the basic numerical and standard mathematical calculation operations:
 26.	The basic number buttons (0 to 9).
 27.	The basic math symbols (operators) (+, -, *, /).
-28.	The equal sign (=) and point (.).
+28.	 The equal sign (=) and point (.).
 29.	Button DEL to delete one or more from the end of the entry.
 30.	Button AC to delete the whole entry.
 31.	EXP : Multiply any number with powers of 10 (e.g. 4 * 10 ** 3 = 4000).
+
 
