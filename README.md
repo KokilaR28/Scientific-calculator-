@@ -2,6 +2,7 @@ A scientific calculator  application using python framework tkinter
 
 ![image](https://github.com/KokilaR28/Scientific-calculator-/assets/142500123/2269b688-7ea2-4c6b-9de1-f78ef45fe1da)
 
+Each button's operation is explained below.
 
 1.	abs : The absolute value of a number (e.g. abs(-3) = 3).
 2.	mod : From modulo. Operation to find the remainder of the division of one number by another. The symbol % is used in python. (e.g. 7mod2 = 7%2 = 1).
